@@ -146,6 +146,10 @@
     <ClInclude Include="ConsoleUtils.h" />
     <ClInclude Include="Map.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Enemy.cpp" />
+    <None Include="Enemy.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
